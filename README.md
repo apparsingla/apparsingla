@@ -40,9 +40,7 @@
 
 ## 🌐 Connect with Me  
 
-- 💼 [LinkedIn](https://linkedin.com/in/YOUR-LINK)  
-- 🌍 [Portfolio](https://yourwebsite.com)  
-- 🐦 [Twitter](https://twitter.com/YOURHANDLE)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/appar-singla/)
 
 ---
 ⭐️ *Always open to collaborating on impactful projects in MERN, SaaS, and AI-driven platforms.*  
