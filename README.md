@@ -37,8 +37,4 @@
 
 ---
 
-![Visitor Count](https://profile-counter.glitch.me/APPARSINGLA/count.svg)
-
----
-
 ⭐️ *Always open to collaborating on impactful projects in MERN, SaaS, and AI-driven platforms.*  
