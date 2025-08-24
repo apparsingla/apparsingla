@@ -36,4 +36,9 @@
 - 💼 [LinkedIn](https://www.linkedin.com/in/appar-singla/)
 
 ---
+
+![Visitor Count](https://profile-counter.glitch.me/YOURUSERNAME/count.svg)
+
+---
+
 ⭐️ *Always open to collaborating on impactful projects in MERN, SaaS, and AI-driven platforms.*  
