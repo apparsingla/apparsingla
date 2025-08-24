@@ -1,16 +1,48 @@
-## Hi there 👋
-Welcome
-<!--
-**apparsingla/apparsingla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Appar Singla  
 
-Here are some ideas to get you started:
+💻 **Senior MERN Stack Developer** with 9+ years of experience building scalable, high-performance web applications across **tourism, education, healthcare, and enterprise domains**.  
+🚀 Passionate about clean code, modern architectures, and mentoring developers.  
 
-- 🔭 I’m currently working on ....
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Tech Stack  
+
+**Languages:** JavaScript, TypeScript  
+**Frontend:** React, Astro, Redux, HTML, CSS  
+**Backend:** Node.js, Express.js, NestJS, LoopbackJS, GraphQL, Microsoft Bot Framework  
+**Databases:** MongoDB, MySQL, Cassandra, BigQuery, Redis  
+**Testing:** Jest, Mocha-Chai, React Testing Library  
+**DevOps & Tools:** Git, JIRA, SonarQube, Redmine  
+**Architectures:** Microservices, Micro-Frontends  
+**OS:** iOS, Linux, Ubuntu, Windows  
+
+---
+
+## 📂 Key Projects  
+
+- **Travel Management Portal** – Led feature development and migrated the system to **micro-frontend architecture** for scalability.  
+- **Education Learning Platform** – Built reusable React components for video-based learning and mentoring platform.  
+- **Healthcare Management Portal** – Designed appointment scheduling system supporting multiple locations and time zones.  
+- **Doctor Live Chat Tool** – Built real-time chat interface for doctor-patient communication with bulk broadcast.  
+- **Sleep Management Tool** – Integrated hardware-based sensors to track sleep patterns and aid diagnosis.  
+- **Enterprise ERP** – Modules for attendance, performance tracking, and transport management.  
+- **Data Transformation Platform** – Microservices-based system for ingesting, transforming, and transmitting data.  
+- **Access Management System** – Admin dashboard for role-based access across applications.  
+
+---
+
+## 📊 GitHub Stats  
+
+![Appar's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=radical)  
+
+---
+
+## 🌐 Connect with Me  
+
+- 💼 [LinkedIn](https://linkedin.com/in/YOUR-LINK)  
+- 🌍 [Portfolio](https://yourwebsite.com)  
+- 🐦 [Twitter](https://twitter.com/YOURHANDLE)  
+
+---
+⭐️ *Always open to collaborating on impactful projects in MERN, SaaS, and AI-driven platforms.*  
