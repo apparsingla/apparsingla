@@ -31,13 +31,6 @@
 
 ---
 
-## 📊 GitHub Stats  
-
-![Appar's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=radical)  
-
----
-
 ## 🌐 Connect with Me  
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/appar-singla/)
