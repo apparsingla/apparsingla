@@ -8,7 +8,7 @@
 ## 🛠 Tech Stack  
 
 **Languages:** JavaScript, TypeScript  
-**Frontend:** React, Astro, Redux, HTML, CSS  
+**Frontend:** React.js, Next.js, Astro, Redux, HTML, CSS  
 **Backend:** Node.js, Express.js, NestJS, LoopbackJS, GraphQL, Microsoft Bot Framework  
 **Databases:** MongoDB, MySQL, Cassandra, BigQuery, Redis  
 **Testing:** Jest, Mocha-Chai, React Testing Library  
