@@ -52,10 +52,11 @@
 
 ## 🌐 Connect with Me  
 
-💼 [LinkedIn](https://www.linkedin.com/in/appar-singla/)
-📩 Email: appar.singla@gmail.com
-🔗 LinkedIn: linkedin.com/in/appar-singla
+💼 [LinkedIn](https://www.linkedin.com/in/appar-singla/)  
+📩 Email: appar.singla@gmail.com  
+🔗 LinkedIn: linkedin.com/in/appar-singla  
 💼 Open for: Freelance Projects, Startup SaaS, Enterprise Modules
+
 ---
 
 ⭐️ *Always open to collaborating on impactful projects in MERN, SaaS, and AI-driven platforms.*  
