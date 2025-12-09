@@ -52,7 +52,6 @@
 
 ## 🌐 Connect with Me  
 
-💼 [LinkedIn](https://www.linkedin.com/in/appar-singla/)  
 📩 Email: appar.singla@gmail.com  
 🔗 LinkedIn: linkedin.com/in/appar-singla  
 💼 Open for: Freelance Projects, Startup SaaS, Enterprise Modules
