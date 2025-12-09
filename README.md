@@ -14,7 +14,19 @@
 **Testing:** Jest, Mocha-Chai, React Testing Library  
 **DevOps & Tools:** Git, JIRA, SonarQube, Redmine  
 **Architectures:** Microservices, Micro-Frontends  
-**OS:** iOS, Linux, Ubuntu, Windows  
+**OS:** iOS, Linux, Ubuntu, Windows
+
+> 💡 **I love clean architecture, reusable UI components, and performance-driven system design.**
+
+---
+
+## 🧩 What I Build (SaaS & Enterprise Focus)
+
+🔹 SaaS Billing Dashboards (Stripe/Razorpay)
+🔹 Role-Based Admin Panels & Analytics
+🔹 Real-time Web Applications (Chat, Live Consultations)
+🔹 Business SaaS Platforms & MVPs
+🔹 Enterprise ERP Modules (Attendance, Access Control, Transport)
 
 ---
 
@@ -31,10 +43,19 @@
 
 ---
 
+## 🌱 Current Work
+
+🔧 Building a full-stack Business SaaS Dashboard using Next.js, MongoDB & Stripe/Razorpay.
+📌 (Will be published soon as a live portfolio project)
+
+---
+
 ## 🌐 Connect with Me  
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/appar-singla/)
-
+💼 [LinkedIn](https://www.linkedin.com/in/appar-singla/)
+📩 Email: appar.singla@gmail.com
+🔗 LinkedIn: linkedin.com/in/appar-singla
+💼 Open for: Freelance Projects, Startup SaaS, Enterprise Modules
 ---
 
 ⭐️ *Always open to collaborating on impactful projects in MERN, SaaS, and AI-driven platforms.*  
